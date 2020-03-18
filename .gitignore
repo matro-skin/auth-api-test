@@ -1,6 +1,9 @@
 /node_modules
 /public/hot
 /public/storage
+/public/css
+/public/js
+/public/*.js
 /storage/*.key
 /vendor
 .env
@@ -15,3 +18,4 @@ yarn-error.log
 /composer.lock
 /package-lock.json
 /.idea
+/public/mix-manifest.json
